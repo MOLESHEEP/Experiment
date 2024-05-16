@@ -1,0 +1,8 @@
+2024-05-15 15:18:22,045 - utils - INFO - Running Linear(linear_new.ini)...
+2024-05-15 15:20:38,580 - utils - INFO - The best valid c-index: 0.776550314798872
+2024-05-15 15:20:38,580 - utils - INFO - 
+2024-05-15 15:20:38,580 - utils - INFO - +----------+
+|  Linear  |
++----------+
+| 0.776550 |
++----------+

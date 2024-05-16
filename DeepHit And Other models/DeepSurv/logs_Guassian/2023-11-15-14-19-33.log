@@ -1,0 +1,40 @@
+2023-11-15 14:19:33,073 - utils - INFO - Running Simulated Nonlinear(gaussian_new.ini)...
+2023-11-15 14:19:52,034 - utils - INFO - The best valid c-index: 0.5111455802427246
+2023-11-15 14:19:52,035 - utils - INFO - 
+2023-11-15 14:19:52,036 - utils - INFO - +---------------------+
+| Simulated Nonlinear |
++---------------------+
+|       0.511146      |
++---------------------+
+2023-11-15 14:19:52,041 - utils - INFO - Running Simulated Nonlinear(gaussian_new.ini)...
+2023-11-15 14:20:09,013 - utils - INFO - The best valid c-index: 0.508361457317184
+2023-11-15 14:20:09,014 - utils - INFO - 
+2023-11-15 14:20:09,017 - utils - INFO - +---------------------+
+| Simulated Nonlinear |
++---------------------+
+|       0.508361      |
++---------------------+
+2023-11-15 14:20:09,021 - utils - INFO - Running Simulated Nonlinear(gaussian_new.ini)...
+2023-11-15 14:20:50,065 - utils - INFO - The best valid c-index: 0.5150011411167594
+2023-11-15 14:20:50,066 - utils - INFO - 
+2023-11-15 14:20:50,068 - utils - INFO - +---------------------+
+| Simulated Nonlinear |
++---------------------+
+|       0.515001      |
++---------------------+
+2023-11-15 14:20:50,073 - utils - INFO - Running Simulated Nonlinear(gaussian_new.ini)...
+2023-11-15 14:21:09,766 - utils - INFO - The best valid c-index: 0.4981913804281308
+2023-11-15 14:21:09,767 - utils - INFO - 
+2023-11-15 14:21:09,768 - utils - INFO - +---------------------+
+| Simulated Nonlinear |
++---------------------+
+|       0.498191      |
++---------------------+
+2023-11-15 14:21:09,773 - utils - INFO - Running Simulated Nonlinear(gaussian_new.ini)...
+2023-11-15 14:21:27,718 - utils - INFO - The best valid c-index: 0.5081079880192839
+2023-11-15 14:21:27,719 - utils - INFO - 
+2023-11-15 14:21:27,722 - utils - INFO - +---------------------+
+| Simulated Nonlinear |
++---------------------+
+|       0.508108      |
++---------------------+

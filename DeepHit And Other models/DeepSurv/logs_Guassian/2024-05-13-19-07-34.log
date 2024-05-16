@@ -1,0 +1,11 @@
+2024-05-13 19:07:34,135 - utils - INFO - Running weibullLinear(weibullLinear.ini)...
+2024-05-13 19:09:55,704 - utils - INFO - The best valid c-index: 0.6719059126965952
+2024-05-13 19:09:55,705 - utils - INFO - 
+2024-05-13 19:09:55,705 - utils - INFO - Running GompertzLinear(GompertzLinear.ini)...
+2024-05-13 19:13:26,059 - utils - INFO - The best valid c-index: 0.7762160585951817
+2024-05-13 19:13:26,059 - utils - INFO - 
+2024-05-13 19:13:26,059 - utils - INFO - +---------------+----------------+
+| weibullLinear | GompertzLinear |
++---------------+----------------+
+|    0.671906   |    0.776216    |
++---------------+----------------+

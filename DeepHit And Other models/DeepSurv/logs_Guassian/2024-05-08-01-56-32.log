@@ -1,0 +1,8 @@
+2024-05-08 01:56:32,046 - utils - INFO - Running Simulated Nonlinear(weibullLinear.ini)...
+2024-05-08 01:57:35,301 - utils - INFO - The best valid c-index: 0.6705714047088555
+2024-05-08 01:57:35,301 - utils - INFO - 
+2024-05-08 01:57:35,301 - utils - INFO - +---------------------+
+| Simulated Nonlinear |
++---------------------+
+|       0.670571      |
++---------------------+

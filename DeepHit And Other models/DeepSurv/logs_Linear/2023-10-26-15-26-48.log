@@ -1,0 +1,8 @@
+2023-10-26 15:26:48,467 - utils - INFO - Running Simulated linear(linear_new.ini)...
+2023-10-26 15:27:56,446 - utils - INFO - The best valid c-index: 0.7745979090459313
+2023-10-26 15:27:56,446 - utils - INFO - 
+2023-10-26 15:27:56,446 - utils - INFO - +------------------+
+| Simulated linear |
++------------------+
+|     0.774598     |
++------------------+

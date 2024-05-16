@@ -1,0 +1,23 @@
+2023-09-27 15:21:59,549 - utils - INFO - Running Simulated Linear(nasafull.ini)...
+2023-09-27 15:22:03,857 - utils - INFO - The best valid c-index: 0.6819474058280028
+2023-09-27 15:22:03,865 - utils - INFO - 
+2023-09-27 15:22:03,895 - utils - INFO - Running Simulated Linear(nasafull.ini)...
+2023-09-27 15:22:10,079 - utils - INFO - The best valid c-index: 0.6678173646844265
+2023-09-27 15:22:10,088 - utils - INFO - 
+2023-09-27 15:22:10,114 - utils - INFO - Running Simulated Linear(nasafull.ini)...
+2023-09-27 15:22:14,107 - utils - INFO - The best valid c-index: 0.6801517067003793
+2023-09-27 15:22:14,115 - utils - INFO - 
+2023-09-27 15:22:14,139 - utils - INFO - Running Simulated Linear(nasafull.ini)...
+2023-09-27 15:22:21,218 - utils - INFO - The best valid c-index: 0.7300464997770558
+2023-09-27 15:22:21,227 - utils - INFO - 
+2023-09-27 15:22:21,253 - utils - INFO - Running Simulated Linear(nasafull.ini)...
+2023-09-27 15:22:32,904 - utils - INFO - The best valid c-index: 0.6982891600056094
+2023-09-27 15:22:32,913 - utils - INFO - 
+2023-09-27 15:22:32,938 - utils - INFO - Running Simulated Linear(nasafull.ini)...
+2023-09-27 15:22:36,452 - utils - INFO - The best valid c-index: 0.7159471588395171
+2023-09-27 15:22:36,461 - utils - INFO - 
+2023-09-27 15:22:36,468 - utils - INFO - +------------------+
+| Simulated Linear |
++------------------+
+|     0.715947     |
++------------------+

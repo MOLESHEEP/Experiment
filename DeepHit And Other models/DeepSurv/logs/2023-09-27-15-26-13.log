@@ -1,0 +1,35 @@
+2023-09-27 15:26:13,944 - utils - INFO - Running Simulated Linear(nasafull.ini)...0
+2023-09-27 15:26:16,380 - utils - INFO - The best valid c-index: 0.7232918607075832
+2023-09-27 15:26:16,380 - utils - INFO - 
+2023-09-27 15:26:16,400 - utils - INFO - Running Simulated Linear(nasafull.ini)...1
+2023-09-27 15:26:26,775 - utils - INFO - The best valid c-index: 0.7038347107438017
+2023-09-27 15:26:26,776 - utils - INFO - 
+2023-09-27 15:26:26,794 - utils - INFO - Running Simulated Linear(nasafull.ini)...2
+2023-09-27 15:26:34,805 - utils - INFO - The best valid c-index: 0.7117603042963148
+2023-09-27 15:26:34,807 - utils - INFO - 
+2023-09-27 15:26:34,828 - utils - INFO - Running Simulated Linear(nasafull.ini)...3
+2023-09-27 15:26:39,468 - utils - INFO - The best valid c-index: 0.6840429403202329
+2023-09-27 15:26:39,470 - utils - INFO - 
+2023-09-27 15:26:39,491 - utils - INFO - Running Simulated Linear(nasafull.ini)...4
+2023-09-27 15:26:44,464 - utils - INFO - The best valid c-index: 0.6523397104446742
+2023-09-27 15:26:44,466 - utils - INFO - 
+2023-09-27 15:26:44,486 - utils - INFO - Running Simulated Linear(nasafull.ini)...5
+2023-09-27 15:26:50,421 - utils - INFO - The best valid c-index: 0.739038233643111
+2023-09-27 15:26:50,423 - utils - INFO - 
+2023-09-27 15:26:50,442 - utils - INFO - Running Simulated Linear(nasafull.ini)...6
+2023-09-27 15:26:54,321 - utils - INFO - The best valid c-index: 0.682830084250661
+2023-09-27 15:26:54,324 - utils - INFO - 
+2023-09-27 15:26:54,345 - utils - INFO - Running Simulated Linear(nasafull.ini)...7
+2023-09-27 15:26:58,576 - utils - INFO - The best valid c-index: 0.6779925795743019
+2023-09-27 15:26:58,580 - utils - INFO - 
+2023-09-27 15:26:58,599 - utils - INFO - Running Simulated Linear(nasafull.ini)...8
+2023-09-27 15:27:07,623 - utils - INFO - The best valid c-index: 0.7176324280720624
+2023-09-27 15:27:07,625 - utils - INFO - 
+2023-09-27 15:27:07,645 - utils - INFO - Running Simulated Linear(nasafull.ini)...9
+2023-09-27 15:27:11,674 - utils - INFO - The best valid c-index: 0.7221309403437816
+2023-09-27 15:27:11,677 - utils - INFO - 
+2023-09-27 15:27:11,679 - utils - INFO - +--------------------+
+| Simulated Linear:9 |
++--------------------+
+|      0.722131      |
++--------------------+

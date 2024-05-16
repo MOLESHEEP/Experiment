@@ -1,0 +1,8 @@
+2024-05-12 23:43:31,045 - utils - INFO - Running Simulated Nonlinear(GompertzLinear.ini)...
+2024-05-12 23:46:53,141 - utils - INFO - The best valid c-index: 0.7761998586555265
+2024-05-12 23:46:53,141 - utils - INFO - 
+2024-05-12 23:46:53,141 - utils - INFO - +---------------------+
+| Simulated Nonlinear |
++---------------------+
+|       0.776200      |
++---------------------+

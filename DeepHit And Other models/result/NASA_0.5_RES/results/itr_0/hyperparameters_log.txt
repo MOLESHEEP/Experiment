@@ -1,0 +1,13 @@
+mb_size:128
+iteration:50000
+keep_prob:0.5
+lr_train:1e-05
+h_dim_shared:200
+h_dim_CS:300
+num_layers_shared:3
+num_layers_CS:2
+active_fn:relu
+alpha:3.0
+beta:3.0
+gamma:0
+out_path:METABRIC/results/

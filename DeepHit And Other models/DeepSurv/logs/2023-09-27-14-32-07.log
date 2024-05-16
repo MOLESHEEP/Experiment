@@ -1,0 +1,8 @@
+2023-09-27 14:32:07,444 - utils - INFO - Running Simulated Linear(nasafull.ini)...
+2023-09-27 14:32:13,511 - utils - INFO - The best valid c-index: 0.7028414359517817
+2023-09-27 14:32:13,511 - utils - INFO - 
+2023-09-27 14:32:13,511 - utils - INFO - +------------------+
+| Simulated Linear |
++------------------+
+|     0.702841     |
++------------------+
